@@ -119,17 +119,3 @@ This repository contains my **maintained and enhanced version of a collaborative
 
 ---
 
-## 📂 Repository
-
-[**View Source Code →**](https://github.com/kavyamoodi/Nexus-Ops-AI)
-
----
-
-## 👩‍💻 About the Developer
-
-**Kavya Moodi**
-Computer Science & Engineering Student | Full-Stack Developer
-
-Interested in building practical applications across **full-stack development, AI-powered systems, cloud technologies, and problem-solving**.
-
-[GitHub →](https://github.com/kavyamoodi)
